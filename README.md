@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hello all!
+My name is Shayne, and I am a UMBC graduate with a degree in Computer Science. My focus was in cybersecurity, with my interests mainly in software engineering and cryptography. 
 
 <!--
 **shewitt926/shewitt926** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
